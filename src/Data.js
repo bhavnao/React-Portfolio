@@ -16,7 +16,7 @@ export const projects = [
     id: "bhavnao/WorthTheWatch",
     title: "Worth The Watch ",
     description:
-      "A movie search website to search movies to get detailed information using the imdb API and the youtube API.",
+      "A movie search website to search movies to get detailed information using the imdb API and the youtube API. We can search movues by its name or genre.",
     imageUrl: worththewatch,
     appUrl: "https://bhavnao.github.io/WorthTheWatch/",
     
@@ -70,37 +70,5 @@ export const projects = [
     appUrl: "https://bhavnao.github.io/HW-4-Code-Quiz/",
     technology: " Javascript, HTML, CSS",
   },
-//   {
-//     id: "GauriKhandke/Gauri-weather-dashboard",
-//     title: "Weather Dashboard (FrontEnd)",
-//     description:
-//       "A weather dashboard application to get current weather conditions of city and 5 day forecast of that city.",
-//     imageUrl: weatherdashboard,
-//     appUrl: "https://gaurikhandke.github.io/Gauri-weather-dashboard/",
-//     gif: weatherDashboardGif,
-//     technology: "Javascript, JQuery, Bootstrap, HTML, CSS",
-//     details: "A weather dashboard application to get current weather conditions of city and 5 day forecast of that city. This application is built using OpenWeather API to fetch weather data of searched city."
-//   },
-//   {
-//     id: "GauriKhandke/Gauri-code-quiz",
-//     title: "Code Quiz (Front End)",
-//     description:
-//       "A timer-based quiz application that stores high scores of multiple users. Answering incorrectly results in penality of time.",
-//     imageUrl: codequiz,
-//     appUrl: "https://gaurikhandke.github.io/Gauri-code-quiz/",
-//     gif: codeQuizGif,
-//     technology: "Javascript, Bootstrap, Browser LocalStorage, HTML, CSS",
-//     details: "A timer-based quiz application having multiple choice questions that stores high scores of multiple users. Answering incorrectly results in penality of time."
-//   },
-//   {
-//     id: "GauriKhandke/Gauri-day-planner",
-//     title: "Day Planner (Front End)",
-//     description:
-//       "Simple calendar application that allows the user to save events for each hour of the day from 9AM to 5 PM. ",
-//     imageUrl: dayplanner,
-//     appUrl: "https://gaurikhandke.github.io/Gauri-day-planner/",
-//     gif: dayPlannerGif,
-//     technology: "JQuery, Javascript, Moment.js, Bootstrap, HTML, CSS",
-//     details: "Simple calendar application that allows the user to save events for each hour of the day from 9AM to 5 PM. "
-//   },  
+
 ];
