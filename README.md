@@ -9,7 +9,7 @@ As an Full Stack Web Developer and a member of the dev community, I want to have
 
 * This portfolio has been created with [React](https://github.com/facebook/create-react-app) and deployed using Github pages.
 
-**Launch the [Portfolio here.](/)**  
+**Launch the [Portfolio here.](https://bhavnao.github.io/React-Portfolio/)**  
 
 # Features:
 
