@@ -31,18 +31,15 @@ export default function ProjectList(props) {
                     <Modal.Header closeButton>
                       <Modal.Title className="modelHeading"><h3><strong>{props.project.title}</strong></h3></Modal.Title>
                     </Modal.Header>
-                    <Modal.Body>
+                    {/* <Modal.Body>
                         <div className = "d-flex justify-content-center" style={{marginBottom: '15'}}>
-                       
-                          <img src={props.project.gif} alt="Demo"
-                            className="img-thumbnail rounded float-left img-fluid d-flex"
-                          ></img>
+                                                 
                         
                         </div>
-                    </Modal.Body>
+                    </Modal.Body> */}
                     <Modal.Body style={{ fontSize: '18px' }}>
                       <h3><strong>Description: </strong></h3>
-                      <p>{props.project.details}</p>
+                      <p>{props.project.description}</p>
                       <h3><strong>Technology Used: </strong></h3>
                       <p>{props.project.technology}</p>
                     </Modal.Body>
