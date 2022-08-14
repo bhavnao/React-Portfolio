@@ -6,7 +6,7 @@ export default function Header() {
   return (
     <>
       <div className= "text-center header-section justify-content-center text-white">
-        <h1 className="header-name">Hi,I am  Bhavna Jain</h1>
+        <h1 className="header-name">Hi, I am  Bhavna Jain</h1>
         <p className="header-description">Full Stack Web Developer </p>
         <div className ='container mb-3 mt-4' >
             <a href="https://github.com/bhavnao" className="btn tooltip-test icon" title="Github" target="_blank" rel="noopener noreferrer"

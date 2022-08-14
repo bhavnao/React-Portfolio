@@ -26,21 +26,11 @@ export default function About() {
 						<div
 							className="col-md-9 col-sm-12" style={{ margin: '0 auto', padding: '0 25px'}}	>
 							<p style={{ margin: '20px 10px 0 10px', textAlign: 'justify', fontSize: '1.1em', color:'	#282828' }}>
-								I am a passionate full stack web developer and I like to
-								 combinine logical thinking and problem solving to develop
-								user-friendly applications. I have a Bachelors Degree in Computer Science and
-                                I have recently completed a certification in full-stack web
-								development Georgia Tech.
-								
+							I am a passionate full-stack web developer. I like to combine logical thinking and problem solving to develop user-friendly applications. I have a Bachelors Degree in Computer Science and I have recently completed a certification in full-stack web development at Georgia Tech.
 							</p>
 							<p
 								style={{ margin: '20px 10px 0px 10px', textAlign: 'justify', fontSize: '1.1em', color:'	#282828'}}>
-								I am proactive in learning new skills and knowledge with core competency in
-								full-stack web development such as JavaScript, HTML, CSS, jQuery, React,
-								NodeJS, MongoDB, SQL, and RESTful APIs. 
-							    Quick-learner, very organized, ability to work under
-								pressure, collaborative communicator. I look forward to bringing my skills and
-								passion for software development to build user focused applications.
+								I am proactive in learning new skills. With my recent certification, I acquired knowledge in full-stack web development technologies such as React, NodeJS, MongoDB, SQL, JavaScript, HTML, CSS, jQuery, and RESTful APIs. I am a quick learner, very organized, able to work under pressure, and a good communicator. I look forward to bringing my skills and passion for software development to build user-focused applications.
 							</p>
 							<p style={{ margin: '20px 10px 0px 10px', textAlign: 'justify', fontSize: '1.1em', color:'	#282828' }}	>
 								<strong>Contact Email: bhavnaostwal@gmail.com </strong>
